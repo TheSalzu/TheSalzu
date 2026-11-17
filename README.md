@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey, I'm Salzu 👋
 
-<!--
-**TheSalzu/TheSalzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught game developer and systems programmer from North Carolina.
+7+ years building on Roblox — games I've worked on have passed **250M+ combined visits** with **9K+ peak concurrent players**.
 
-Here are some ideas to get you started:
+**What I build**
+- 🎮 **Roblox games (Luau)** — [Hotshot](https://www.roblox.com/games/104118534154255/Hotshot) (4.2M+ visits, [source here](https://github.com/TheSalzu/Hotshot-OpenSource), MIT), [TCG Shop Simulator](https://www.roblox.com/games/80988478110565/TCG-Shop-Simulator) (16M+ visits), [Run a Card Shop](https://www.roblox.com/games/140539007819528/Run-a-Card-Shop)
+- 🔌 **Embedded C** — bare-metal AVR & STM32: [my documented embedded journey](https://github.com/TheSalzu/Bare-Metal-Embedded-Development)
+- 🌐 **Web** — [roanokerapidsrobotics.org](https://www.roanokerapidsrobotics.org), my FTC robotics team's site with a custom CMS any member can publish through
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my game work lives in private team repos — Hotshot is the exception: fully open so you can read the netcode (server-authoritative hits with rollback hitboxes).
+
+💼 [LinkedIn](https://www.linkedin.com/in/alegend-dickens/)
